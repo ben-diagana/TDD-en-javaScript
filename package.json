@@ -1,0 +1,22 @@
+{
+  "name": "tdd-en-javascript",
+  "version": "1.0.0",
+  "description": "TDD en javaScript",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-diagana/TDD-en-javaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-diagana/TDD-en-javaScript/issues"
+  },
+  "homepage": "https://github.com/ben-diagana/TDD-en-javaScript#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
